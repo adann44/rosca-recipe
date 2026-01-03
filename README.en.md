@@ -36,6 +36,8 @@
 
 ## Cooked Fruit
 
+📺 [Watch video tutorial](https://www.youtube.com/watch?v=GBEKpItwrAE)
+
 | Ingredient | Amount |
 |------------|--------|
 | Watermelon | 1 |

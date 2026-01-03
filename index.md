@@ -36,6 +36,8 @@
 
 ## Fruta Cocida
 
+📺 [Ver video tutorial](https://www.youtube.com/watch?v=GBEKpItwrAE)
+
 | Ingrediente | Cantidad |
 |-------------|----------|
 | Sandía | 1 |
