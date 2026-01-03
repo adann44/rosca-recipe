@@ -2,6 +2,8 @@
 
 ## Rosca (Bread Dough)
 
+📺 [Watch video tutorial](https://www.youtube.com/watch?v=-pHHb2eHtFI)
+
 | Ingredient | Amount |
 |------------|--------|
 | Flour | 6 ½ cups (1,000 g) |

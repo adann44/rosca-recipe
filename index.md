@@ -2,6 +2,8 @@
 
 ## Rosca (Masa del Pan)
 
+📺 [Ver video tutorial](https://www.youtube.com/watch?v=-pHHb2eHtFI)
+
 | Ingrediente | Cantidad |
 |-------------|----------|
 | Harina | 6 ½ tazas (1,000 g) |
