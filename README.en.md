@@ -19,6 +19,8 @@
 
 ## Pasta de Manteca
 
+📺 [Watch video tutorial](https://www.youtube.com/watch?v=YuzmfVaaBCA)
+
 | Ingredient | Amount |
 |------------|--------|
 | Regular (granulated) sugar | ½ kilo (500 g) ≈ 2½ cups |

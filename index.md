@@ -19,6 +19,8 @@
 
 ## Pasta de Manteca
 
+📺 [Ver video tutorial](https://www.youtube.com/watch?v=YuzmfVaaBCA)
+
 | Ingrediente | Cantidad |
 |-------------|----------|
 | Azúcar regular (granulada) | ½ kilo (500 g) ≈ 2½ tazas |
